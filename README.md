@@ -1,4 +1,3 @@
-# Statistics-Hypothesis-Testing-Project
 # Maximizing Revenue for Taxi Cab Drivers through Payment Type Analysis
 
 # Problem Statement:
@@ -12,4 +11,4 @@ Is there a relationship between total fare amount and payment type and can we nu
 
 # Insights:
 We conclude that there is a statistically significant difference in the average fare amount between customers who use credit cards and customers who use cash.
-# The key business insight is that encouraging customers to pay with credit cards can generate more revenue for taxi cab drivers.
+The key business insight is that encouraging customers to pay with credit cards can generate more revenue for taxi cab drivers.
